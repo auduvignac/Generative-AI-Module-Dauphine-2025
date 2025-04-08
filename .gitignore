@@ -2,3 +2,4 @@ venv/
 flask_env/
 *.ini
 *.env
+*.pyc
